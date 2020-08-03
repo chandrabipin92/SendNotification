@@ -1,0 +1,757 @@
+2020-06-27 16:38:04 INFO  TestBase:34 - Selecting the browser chrome
+2020-06-27 16:38:04 INFO  TestBase:37 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 16:43:09 INFO  TestBase:35 - Selecting the browser chrome
+2020-06-27 16:43:09 INFO  TestBase:38 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 16:46:21 INFO  TestBase:35 - Selecting the browser chrome
+2020-06-27 16:46:21 INFO  TestBase:38 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 16:55:29 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 16:55:29 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 16:56:41 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 16:56:41 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 17:00:49 INFO  TestBase:35 - Url is https://api.whatsapp.com/send?phone=918750129144
+2020-06-27 17:02:49 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 17:02:49 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 17:05:00 INFO  TestBase:33 - Url is https://api.whatsapp.com/send?phone=918750129144
+2020-06-27 17:07:00 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 17:07:00 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 17:08:54 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 17:08:54 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 17:33:09 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 17:33:09 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 17:35:21 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 17:35:21 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 17:38:10 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 17:38:10 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 17:41:35 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 17:41:35 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 17:47:37 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 17:47:37 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 20:55:39 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 20:55:39 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 20:58:28 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 20:58:28 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 21:07:08 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 21:07:08 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 21:08:13 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 21:08:13 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 21:08:41 INFO  TestBase:48 - Clikced on useWhatsApp
+2020-06-27 21:11:38 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 21:11:38 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 21:12:07 INFO  TestBase:48 - Clikced on useWhatsApp
+2020-06-27 21:12:22 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 21:12:22 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 21:14:10 INFO  TestBase:48 - Clikced on useWhatsApp
+2020-06-27 21:26:41 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 21:26:41 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 21:28:12 INFO  TestBase:45 - Clikced on useWhatsApp
+2020-06-27 21:29:23 INFO  TestBase:45 - Clikced on useWhatsApp
+2020-06-27 21:38:10 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 21:38:10 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 21:40:11 INFO  TestBase:45 - Clikced on useWhatsApp
+2020-06-27 21:41:23 INFO  TestBase:45 - Clikced on useWhatsApp
+2020-06-27 21:48:04 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 21:48:04 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 21:49:22 INFO  TestBase:45 - Clikced on useWhatsApp
+2020-06-27 21:49:47 INFO  TestBase:45 - Clikced on useWhatsApp
+2020-06-27 22:03:16 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 22:03:16 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 22:03:28 INFO  TestBase:51 - Clikced on useWhatsApp
+2020-06-27 22:03:50 INFO  TestBase:51 - Clikced on useWhatsApp
+2020-06-27 22:11:57 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-27 22:11:57 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-27 22:12:08 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-06-27 22:12:30 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-06-29 12:03:23 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-29 12:03:23 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-29 12:04:36 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-29 12:04:36 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-29 12:04:56 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-06-29 12:13:29 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-29 12:13:29 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-29 12:13:49 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-06-29 12:16:09 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-29 12:16:09 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-29 12:16:20 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-06-29 12:16:28 INFO  TestBase:73 - Message Submitted
+2020-06-29 12:17:21 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-29 12:17:21 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-29 12:17:33 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-06-29 12:17:39 INFO  TestBase:73 - Message Submitted
+2020-06-29 12:17:51 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-06-29 12:18:51 INFO  TestBase:73 - Message Submitted
+2020-06-29 12:23:42 INFO  TestBase:39 - Selecting the browser chrome
+2020-06-29 12:23:42 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-06-29 12:24:11 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-06-29 12:24:21 INFO  TestBase:73 - Message Submitted
+2020-06-29 12:24:40 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-06-29 12:25:41 INFO  TestBase:73 - Message Submitted
+2020-06-29 12:25:50 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-06-29 12:26:51 INFO  TestBase:73 - Message Submitted
+2020-07-02 11:33:51 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 11:33:51 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 11:34:09 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 11:34:23 INFO  TestBase:73 - Message Submitted
+2020-07-02 11:34:39 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 11:35:40 INFO  TestBase:73 - Message Submitted
+2020-07-02 11:35:49 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 11:36:50 INFO  TestBase:73 - Message Submitted
+2020-07-02 11:45:27 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 11:45:27 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 11:45:52 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 11:46:00 INFO  TestBase:73 - Message Submitted
+2020-07-02 11:50:03 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 11:50:03 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 11:50:20 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 11:50:28 INFO  TestBase:73 - Message Submitted
+2020-07-02 11:59:04 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 11:59:04 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 11:59:33 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 11:59:40 INFO  TestBase:73 - Message Submitted
+2020-07-02 12:04:38 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 12:04:38 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 12:04:55 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 12:05:04 INFO  TestBase:73 - Message Submitted
+2020-07-02 12:17:55 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 12:17:55 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 12:18:12 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 12:18:21 INFO  TestBase:73 - Message Submitted
+2020-07-02 12:25:05 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 12:25:05 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 12:25:25 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 12:25:32 INFO  TestBase:73 - Message Submitted
+2020-07-02 12:28:19 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 12:28:19 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 12:29:00 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 12:29:07 INFO  TestBase:73 - Message Submitted
+2020-07-02 12:32:37 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 12:32:37 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 12:33:09 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 12:34:10 INFO  TestBase:73 - Message Submitted
+2020-07-02 12:50:06 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 12:50:06 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 12:50:25 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 12:50:35 INFO  TestBase:73 - Message Submitted
+2020-07-02 13:02:26 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 13:02:26 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 13:02:41 INFO  TestBase:52 - Clikced on useWhatsApp
+2020-07-02 13:02:50 INFO  TestBase:73 - Message Submitted
+2020-07-02 13:25:32 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 13:25:32 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 13:51:36 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 13:51:36 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 13:52:00 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 13:52:10 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 13:54:43 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 13:54:43 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 13:55:04 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 13:55:13 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 13:55:13 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 14:06:55 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:06:55 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 14:07:05 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 14:07:16 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 14:07:16 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 14:09:49 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:09:49 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 14:10:00 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 14:10:08 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 14:10:08 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 14:15:45 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:15:45 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 14:15:58 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 14:16:11 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 14:16:11 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 14:17:31 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:17:31 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 14:17:50 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 14:17:57 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 14:17:57 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 14:19:50 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:19:50 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 14:20:31 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 14:21:32 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 14:21:32 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 14:26:19 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:26:19 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 14:26:31 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 14:26:40 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 14:26:41 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 14:27:39 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:27:39 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 14:27:49 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 14:28:00 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 14:28:01 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 14:29:11 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:29:11 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 14:29:20 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 14:29:30 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 14:29:31 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 14:29:33 INFO  TestBase:86 - Clicked On send file
+2020-07-02 14:32:54 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:32:54 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 14:33:03 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 14:33:14 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 14:33:14 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 14:33:15 INFO  TestBase:86 - Clicked On send file
+2020-07-02 14:34:42 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:34:42 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 14:34:58 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 14:35:05 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 14:35:05 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 14:35:07 INFO  TestBase:86 - Clicked On send file
+2020-07-02 14:41:46 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:41:46 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 14:42:13 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 14:44:07 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:44:07 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 14:58:25 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 14:58:25 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 15:36:15 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 15:36:15 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 15:36:39 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 15:36:46 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 15:36:46 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 15:36:47 INFO  TestBase:86 - Clicked On send file
+2020-07-02 15:37:08 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 15:38:08 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 15:38:08 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 15:38:09 INFO  TestBase:86 - Clicked On send file
+2020-07-02 15:42:25 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 15:42:25 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 15:42:49 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 15:43:50 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 15:43:50 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 15:43:50 INFO  TestBase:84 - Clicked on additional image
+2020-07-02 15:43:50 INFO  TestBase:88 - Second Image uploaded
+2020-07-02 15:43:51 INFO  TestBase:93 - Clicked On send file
+2020-07-02 15:46:50 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 15:46:50 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 15:47:33 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 15:48:33 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 15:48:33 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 15:48:33 INFO  TestBase:84 - Clicked on additional image
+2020-07-02 15:48:33 INFO  TestBase:88 - Second Image uploaded
+2020-07-02 15:48:34 INFO  TestBase:93 - Clicked On send file
+2020-07-02 15:50:28 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 15:50:28 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 15:50:51 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 15:51:02 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 15:51:02 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 15:51:03 INFO  TestBase:84 - Clicked on additional image
+2020-07-02 15:51:04 INFO  TestBase:88 - Second Image uploaded
+2020-07-02 15:51:05 INFO  TestBase:93 - Clicked On send file
+2020-07-02 15:51:26 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 15:52:26 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 15:52:26 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 15:52:26 INFO  TestBase:84 - Clicked on additional image
+2020-07-02 15:52:26 INFO  TestBase:88 - Second Image uploaded
+2020-07-02 15:52:27 INFO  TestBase:93 - Clicked On send file
+2020-07-02 16:26:52 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 16:26:52 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 16:27:15 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 16:27:25 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 16:27:25 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 16:27:27 INFO  TestBase:84 - Clicked on additional image
+2020-07-02 16:27:27 INFO  TestBase:88 - Second Image uploaded
+2020-07-02 16:27:28 INFO  TestBase:93 - Clicked On send file
+2020-07-02 16:27:52 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 16:28:53 INFO  TestBase:74 - Clicked on attachments
+2020-07-02 16:28:53 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-02 16:28:53 INFO  TestBase:84 - Clicked on additional image
+2020-07-02 16:28:54 INFO  TestBase:88 - Second Image uploaded
+2020-07-02 16:28:54 INFO  TestBase:93 - Clicked On send file
+2020-07-02 16:29:14 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 16:29:14 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 16:32:02 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 16:32:02 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 16:32:14 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-02 16:32:29 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-02 16:32:29 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-02 16:32:42 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:21:35 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-04 08:21:35 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-04 08:21:47 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:23:00 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:24:29 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:24:29 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:24:29 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:24:29 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:24:30 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:24:31 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:27:33 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-04 08:27:33 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-04 08:27:43 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:28:15 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:28:15 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:28:16 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:28:16 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:28:17 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:28:18 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:28:33 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:29:33 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:29:33 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:29:34 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:29:34 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:29:34 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:29:34 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:29:48 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:30:49 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:30:49 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:30:49 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:30:49 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:30:50 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:30:50 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:31:05 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:32:06 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:32:06 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:32:06 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:32:07 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:32:07 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:32:07 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:32:21 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:33:25 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:33:25 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:33:25 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:33:25 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:33:26 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:33:26 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:33:40 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:35:44 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:36:44 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:36:44 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:36:44 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:36:44 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:36:45 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:36:45 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:37:00 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:38:00 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:38:00 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:38:00 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:38:00 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:38:01 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:38:01 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:38:15 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:39:15 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:39:15 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:39:15 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:39:15 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:39:16 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:39:16 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:39:30 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:40:30 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:40:30 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:40:31 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:40:31 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:40:31 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:40:32 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:40:46 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:42:50 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:43:51 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:43:51 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:43:51 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:43:51 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:43:51 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:43:52 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:44:14 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:45:14 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:45:14 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:45:15 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:45:15 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:45:15 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:45:16 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:45:30 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:46:30 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:46:30 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:46:31 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:46:31 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:46:31 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:46:32 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:46:45 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:47:45 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:47:45 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:47:46 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:47:46 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:47:46 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:47:47 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:48:01 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:49:01 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:49:01 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:49:02 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:49:02 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:49:02 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:49:02 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:49:17 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:50:17 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 08:50:17 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 08:50:17 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 08:50:17 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 08:50:18 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 08:50:18 INFO  TestBase:97 - Clicked On send file
+2020-07-04 08:55:53 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-04 08:55:53 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-04 08:56:03 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:57:14 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 08:59:18 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:00:19 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:00:19 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:00:19 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:00:19 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:00:20 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:00:20 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:00:40 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:01:43 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:01:43 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:01:43 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:01:44 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:01:44 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:01:44 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:01:58 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:02:58 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:02:58 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:02:58 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:02:59 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:02:59 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:03:00 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:03:14 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:04:14 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:04:14 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:04:14 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:04:14 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:04:15 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:04:15 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:04:29 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:05:34 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:05:34 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:05:34 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:05:35 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:05:36 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:05:36 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:05:50 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:06:50 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:06:50 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:06:50 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:06:50 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:06:51 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:06:51 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:07:05 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:08:05 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:08:05 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:08:06 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:08:06 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:08:07 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:08:07 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:08:22 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:09:22 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:09:22 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:09:22 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:09:23 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:09:23 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:09:24 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:09:38 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:10:38 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:10:38 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:10:38 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:10:39 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:10:39 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:10:39 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:33:34 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-04 09:33:34 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-04 09:33:53 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:34:20 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:34:20 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:34:20 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:34:21 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:34:21 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:34:21 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:34:40 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:36:44 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:38:54 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:40:38 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:40:38 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:40:38 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:40:38 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:40:39 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:40:39 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:40:53 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:42:57 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:44:03 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:44:03 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:44:03 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:44:04 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:44:05 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:44:05 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:44:19 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:45:19 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:45:19 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:45:19 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:45:19 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:45:20 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:45:20 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:45:35 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:46:35 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:46:35 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:46:36 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:46:36 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:46:36 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:46:36 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:46:50 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:47:51 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:47:51 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:47:51 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:47:51 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:47:51 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:47:52 INFO  TestBase:97 - Clicked On send file
+2020-07-04 09:48:06 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 09:49:07 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 09:49:07 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 09:49:07 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 09:49:07 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 09:49:08 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 09:49:08 INFO  TestBase:97 - Clicked On send file
+2020-07-04 11:08:03 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-04 11:08:03 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-04 11:08:15 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:09:03 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 11:09:03 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 11:09:04 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 11:09:05 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 11:09:05 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 11:09:05 INFO  TestBase:97 - Clicked On send file
+2020-07-04 11:09:41 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:10:41 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 11:10:41 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 11:10:42 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 11:10:42 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 11:10:42 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 11:10:43 INFO  TestBase:97 - Clicked On send file
+2020-07-04 11:10:58 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:12:27 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 11:12:27 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 11:12:27 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 11:12:28 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 11:12:28 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 11:12:28 INFO  TestBase:97 - Clicked On send file
+2020-07-04 11:12:42 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:14:47 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:16:51 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:18:54 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:19:55 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 11:19:55 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 11:19:55 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 11:19:55 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 11:19:55 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 11:20:00 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:21:00 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 11:21:00 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 11:21:00 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 11:21:01 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 11:21:01 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 11:21:02 INFO  TestBase:97 - Clicked On send file
+2020-07-04 11:23:14 INFO  TestBase:39 - Selecting the browser chrome
+2020-07-04 11:23:14 INFO  TestBase:42 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-04 11:23:28 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:23:55 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 11:23:55 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 11:23:55 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 11:23:56 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 11:23:56 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 11:23:56 INFO  TestBase:97 - Clicked On send file
+2020-07-04 11:24:12 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:26:10 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 11:26:10 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 11:26:10 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 11:26:10 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 11:26:10 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 11:26:11 INFO  TestBase:97 - Clicked On send file
+2020-07-04 11:26:25 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:28:19 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 11:28:19 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 11:28:19 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 11:28:20 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 11:28:20 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 11:28:20 INFO  TestBase:97 - Clicked On send file
+2020-07-04 11:28:34 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:29:34 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 11:29:34 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 11:29:34 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 11:29:35 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 11:29:35 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 11:29:35 INFO  TestBase:97 - Clicked On send file
+2020-07-04 11:29:49 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:31:53 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:33:58 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:34:58 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 11:34:58 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 11:34:58 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 11:34:58 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 11:34:59 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 11:34:59 INFO  TestBase:97 - Clicked On send file
+2020-07-04 11:35:13 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:37:17 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:39:21 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:41:25 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:43:29 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:44:30 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 11:44:30 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 11:44:30 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 11:44:30 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 11:44:31 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 11:44:31 INFO  TestBase:97 - Clicked On send file
+2020-07-04 11:44:45 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:46:49 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:47:54 INFO  TestBase:74 - Clicked on attachments
+2020-07-04 11:47:54 INFO  TestBase:77 - Clicked on attchment photo
+2020-07-04 11:47:55 INFO  TestBase:84 - Clicked on additional image
+2020-07-04 11:47:55 INFO  TestBase:88 - Second Image uploaded
+2020-07-04 11:47:55 INFO  TestBase:92 - Third Image uploaded
+2020-07-04 11:47:55 INFO  TestBase:97 - Clicked On send file
+2020-07-04 11:48:09 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:50:13 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-04 11:52:17 INFO  TestBase:53 - Clikced on useWhatsApp
+2020-07-08 15:38:37 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-08 15:38:37 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-08 15:50:53 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-08 15:50:53 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-08 15:51:04 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 15:51:41 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 16:06:37 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-08 16:06:37 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-08 16:06:48 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 16:07:08 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 16:09:53 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-08 16:09:53 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-08 16:10:04 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 16:10:22 INFO  TestBase:80 - Clicked on attachments
+2020-07-08 16:10:22 INFO  TestBase:83 - Clicked on attchment photo
+2020-07-08 16:10:23 INFO  TestBase:90 - Clicked on additional image
+2020-07-08 16:10:24 INFO  TestBase:94 - Second Image uploaded
+2020-07-08 16:10:25 INFO  TestBase:98 - Third Image uploaded
+2020-07-08 16:10:25 INFO  TestBase:103 - Clicked On send file
+2020-07-08 16:10:42 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 16:26:12 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-08 16:26:12 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-08 16:27:11 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-08 16:27:11 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-08 16:27:22 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 16:27:41 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 16:30:24 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-08 16:30:24 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-08 16:30:35 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 16:31:00 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 17:23:12 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-08 17:23:12 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-08 17:23:27 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 18:50:22 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-08 18:50:22 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-08 18:50:43 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 18:50:57 INFO  TestBase:80 - Clicked on attachments
+2020-07-08 18:50:57 INFO  TestBase:83 - Clicked on attchment photo
+2020-07-08 18:50:59 INFO  TestBase:90 - Clicked on additional image
+2020-07-08 18:51:00 INFO  TestBase:94 - Second Image uploaded
+2020-07-08 18:51:00 INFO  TestBase:98 - Third Image uploaded
+2020-07-08 18:51:00 INFO  TestBase:103 - Clicked On send file
+2020-07-08 18:51:18 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-08 18:52:20 INFO  TestBase:80 - Clicked on attachments
+2020-07-08 18:52:20 INFO  TestBase:83 - Clicked on attchment photo
+2020-07-08 18:52:20 INFO  TestBase:90 - Clicked on additional image
+2020-07-08 18:52:20 INFO  TestBase:94 - Second Image uploaded
+2020-07-08 18:52:21 INFO  TestBase:98 - Third Image uploaded
+2020-07-08 18:52:21 INFO  TestBase:103 - Clicked On send file
+2020-07-09 19:25:57 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-09 19:25:57 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-09 19:26:16 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 19:29:00 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-09 19:29:00 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-09 19:29:12 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 19:29:20 INFO  TestBase:81 - Clicked on attachments
+2020-07-09 19:29:20 INFO  TestBase:84 - Clicked on attchment photo
+2020-07-09 19:29:21 INFO  TestBase:91 - Clicked on additional image
+2020-07-09 19:29:22 INFO  TestBase:95 - Second Image uploaded
+2020-07-09 19:29:23 INFO  TestBase:99 - Third Image uploaded
+2020-07-09 19:29:25 INFO  TestBase:104 - Clicked On send file
+2020-07-09 19:42:52 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-09 19:42:52 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-09 19:43:03 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 19:43:13 INFO  TestBase:81 - Clicked on attachments
+2020-07-09 19:43:13 INFO  TestBase:84 - Clicked on attchment photo
+2020-07-09 19:43:14 INFO  TestBase:91 - Clicked on additional image
+2020-07-09 19:43:14 INFO  TestBase:95 - Second Image uploaded
+2020-07-09 19:43:15 INFO  TestBase:99 - Third Image uploaded
+2020-07-09 19:43:16 INFO  TestBase:104 - Clicked On send file
+2020-07-09 19:45:24 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-09 19:45:24 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-09 19:45:36 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 19:45:45 INFO  TestBase:81 - Clicked on attachments
+2020-07-09 19:45:45 INFO  TestBase:84 - Clicked on attchment photo
+2020-07-09 19:45:45 INFO  TestBase:91 - Clicked on additional image
+2020-07-09 19:45:47 INFO  TestBase:95 - Second Image uploaded
+2020-07-09 19:45:47 INFO  TestBase:99 - Third Image uploaded
+2020-07-09 19:45:48 INFO  TestBase:104 - Clicked On send file
+2020-07-09 19:48:16 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-09 19:48:16 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-09 19:48:29 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 19:48:37 INFO  TestBase:81 - Clicked on attachments
+2020-07-09 19:48:37 INFO  TestBase:84 - Clicked on attchment photo
+2020-07-09 19:48:38 INFO  TestBase:91 - Clicked on additional image
+2020-07-09 19:48:39 INFO  TestBase:95 - Second Image uploaded
+2020-07-09 19:48:40 INFO  TestBase:99 - Third Image uploaded
+2020-07-09 19:48:41 INFO  TestBase:104 - Clicked On send file
+2020-07-09 19:48:58 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 19:49:58 INFO  TestBase:81 - Clicked on attachments
+2020-07-09 19:49:58 INFO  TestBase:84 - Clicked on attchment photo
+2020-07-09 19:49:58 INFO  TestBase:91 - Clicked on additional image
+2020-07-09 19:49:59 INFO  TestBase:95 - Second Image uploaded
+2020-07-09 19:49:59 INFO  TestBase:99 - Third Image uploaded
+2020-07-09 19:50:04 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 19:51:04 INFO  TestBase:81 - Clicked on attachments
+2020-07-09 19:51:04 INFO  TestBase:84 - Clicked on attchment photo
+2020-07-09 19:51:05 INFO  TestBase:91 - Clicked on additional image
+2020-07-09 19:51:05 INFO  TestBase:95 - Second Image uploaded
+2020-07-09 19:51:05 INFO  TestBase:99 - Third Image uploaded
+2020-07-09 19:51:06 INFO  TestBase:104 - Clicked On send file
+2020-07-09 19:54:09 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-09 19:54:09 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-09 19:54:19 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 19:54:28 INFO  TestBase:81 - Clicked on attachments
+2020-07-09 19:54:28 INFO  TestBase:84 - Clicked on attchment photo
+2020-07-09 19:54:30 INFO  TestBase:91 - Clicked on additional image
+2020-07-09 19:54:30 INFO  TestBase:95 - Second Image uploaded
+2020-07-09 19:54:30 INFO  TestBase:99 - Third Image uploaded
+2020-07-09 19:54:31 INFO  TestBase:104 - Clicked On send file
+2020-07-09 19:54:48 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 19:55:49 INFO  TestBase:81 - Clicked on attachments
+2020-07-09 19:55:49 INFO  TestBase:84 - Clicked on attchment photo
+2020-07-09 19:55:49 INFO  TestBase:91 - Clicked on additional image
+2020-07-09 19:55:49 INFO  TestBase:95 - Second Image uploaded
+2020-07-09 19:55:50 INFO  TestBase:99 - Third Image uploaded
+2020-07-09 19:55:50 INFO  TestBase:104 - Clicked On send file
+2020-07-09 19:56:04 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 19:57:05 INFO  TestBase:81 - Clicked on attachments
+2020-07-09 19:57:05 INFO  TestBase:84 - Clicked on attchment photo
+2020-07-09 19:57:05 INFO  TestBase:91 - Clicked on additional image
+2020-07-09 19:57:05 INFO  TestBase:95 - Second Image uploaded
+2020-07-09 19:57:06 INFO  TestBase:99 - Third Image uploaded
+2020-07-09 19:57:06 INFO  TestBase:104 - Clicked On send file
+2020-07-09 19:58:53 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-09 19:58:53 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-09 19:59:09 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 19:59:16 INFO  TestBase:81 - Clicked on attachments
+2020-07-09 19:59:16 INFO  TestBase:84 - Clicked on attchment photo
+2020-07-09 19:59:17 INFO  TestBase:91 - Clicked on additional image
+2020-07-09 19:59:17 INFO  TestBase:95 - Second Image uploaded
+2020-07-09 19:59:19 INFO  TestBase:99 - Third Image uploaded
+2020-07-09 19:59:19 INFO  TestBase:104 - Clicked On send file
+2020-07-09 20:43:56 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-09 20:43:56 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-09 20:44:15 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 20:44:40 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 21:18:51 INFO  TestBase:43 - Selecting the browser chrome
+2020-07-09 21:18:51 INFO  TestBase:46 - Loading URL https://api.whatsapp.com/send?phone=91
+2020-07-09 21:19:05 INFO  TestBase:54 - Clikced on useWhatsApp
+2020-07-09 21:20:11 INFO  TestBase:88 - Clicked on attachments
+2020-07-09 21:20:11 INFO  TestBase:91 - Clicked on attchment photo
+2020-07-09 21:20:11 INFO  TestBase:98 - Clicked on additional image
+2020-07-09 21:20:11 INFO  TestBase:102 - Second Image uploaded
+2020-07-09 21:20:12 INFO  TestBase:106 - Third Image uploaded
+2020-07-09 21:20:12 INFO  TestBase:111 - Clicked On send file
+2020-07-09 21:20:29 INFO  TestBase:54 - Clikced on useWhatsApp
